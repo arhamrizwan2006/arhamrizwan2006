@@ -6,7 +6,7 @@
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arhamrizwan2006&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://arhamrizwan2006.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://arhamrizwan2006.github.io/portfolio](https://www.linkedin.com/in/arhamrizwan2006/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arhamrizwan2006.github.io/portfolio)
 
 </div>
