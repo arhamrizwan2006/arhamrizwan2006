@@ -131,8 +131,6 @@ Completed a full **4-project IoT internship at DecodeLabs**, plus independent ha
 
 </div>
 
-> ⚠️ Note: the snake animation above needs a one-time GitHub Actions setup (a workflow file that regenerates it daily) — it won't render until that's added. Ask if you want the workflow file for this.
-
 ---
 
 ## 📫 Let's Connect
