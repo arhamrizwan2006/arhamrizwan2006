@@ -2,7 +2,7 @@
 
 <!-- Animated typing intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arham+Rizwan;BS+Robotics+%26+AI+%40+University+of+Lahore;Embedded+Systems+%2B+Machine+Learning; From+Sensors+to+Streamlit+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arham+Rizwan;BS+Robotics+%26+AI+%40+University+of+Lahore;Embedded+Systems+%2B+Machine+Learning;From+Sensors+to+Streamlit+Deployment" alt="Typing SVG" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arhamrizwan2006&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS)
