@@ -6,7 +6,7 @@
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arhamrizwan2006&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://arhamrizwan2006.github.io/portfolio](https://www.linkedin.com/in/arhamrizwan2006/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arhamrizwan2006/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arhamrizwan2006.github.io/portfolio)
 
 </div>
@@ -116,6 +116,8 @@ Completed a full **4-project IoT internship at DecodeLabs**, plus independent ha
 
 </div>
 
+> ⚠️ Note: the public `github-readme-stats.vercel.app` instance is currently paused by its maintainer (Vercel free-tier deployment issue), so these cards may show as broken images. The streak-stats badge runs on Heroku's discontinued free tier and likely won't render either. This isn't something wrong with your README — it's an upstream outage. Fix options: self-host your own instance via the project's "Deploy to Vercel" button on [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), or drop this section until it's resolved.
+
 ---
 
 ## 🐍 Contribution Snake
@@ -135,8 +137,8 @@ Completed a full **4-project IoT internship at DecodeLabs**, plus independent ha
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arhamrizwan2006.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arhamrizwan2006/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhamrizwan2006@gmail.com)
 
 *Currently open to internship and entry-level opportunities in ML and embedded systems.*
 
