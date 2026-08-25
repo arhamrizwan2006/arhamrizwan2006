@@ -107,16 +107,19 @@ Completed a full **4-project IoT internship at DecodeLabs**, plus independent ha
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td valign="middle">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=arhamrizwan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</td>
+<td valign="middle">
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arhamrizwan2006&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamrizwan2006&theme=tokyonight&hide_border=true" />
-
-</div>
-
-> ⚠️ Note: the public `github-readme-stats.vercel.app` instance is currently paused by its maintainer (Vercel free-tier deployment issue), so these cards may show as broken images. The streak-stats badge runs on Heroku's discontinued free tier and likely won't render either. This isn't something wrong with your README — it's an upstream outage. Fix options: self-host your own instance via the project's "Deploy to Vercel" button on [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), or drop this section until it's resolved.
+</td>
+<td valign="middle">
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamrizwan2006&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 
 ---
 
