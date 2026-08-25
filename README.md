@@ -109,8 +109,8 @@ Completed a full **4-project IoT internship at DecodeLabs**, plus independent ha
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arhamrizwan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamrizwan2006&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=arhamrizwan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arhamrizwan2006&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamrizwan2006&theme=tokyonight&hide_border=true" />
 
