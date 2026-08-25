@@ -80,8 +80,8 @@ Completed a full **4-project IoT internship at DecodeLabs**, plus independent ha
 |---|---|
 | 🌡️ [Environmental Monitor System](https://github.com/arhamrizwan2006/environmental-monitor-system) | DHT11 sensor + I2C LCD live environmental readout |
 | 💧 [Automated Irrigation Controller](https://github.com/arhamrizwan2006/Automated-Irrigation-Controller) | Soil moisture sensing, relay-driven pump control, buzzer alerts |
-| ☁️ Cloud-Connected Security Node | ESP32 + HC-SR04 streaming live data to Adafruit IO via MQTT |
-| 🏠 Edge-Computing Smart Home Appliance | PIR motion interrupts + MQ-2 gas sensor safety lockdown logic |
+| ☁️ [Cloud-Connected Security Node](https://github.com/arhamrizwan2006/decodelabs_tasks/tree/main/Week-3-ESP32-Distance-Sensor-MQTT) | ESP32 + HC-SR04 streaming live data to Adafruit IO via MQTT |
+| 🏠 [Edge-Computing Smart Home Appliance](https://github.com/arhamrizwan2006/decodelabs_tasks/tree/main/Week-4-Smart-Home-Safety-System) | PIR motion interrupts + MQ-2 gas sensor safety lockdown logic |
 | 🔋 [Solar RC Car](https://github.com/arhamrizwan2006/Solar-RC-Car) | Solar-powered RC car — INA226 power monitoring, Dabble GamePad Bluetooth control, custom motor logic |
 | 🖥️ [Arduino Nano Every PCB Replica](https://github.com/arhamrizwan2006/Arduino-Nano-Every-PCB-Replica) | Full custom PCB — chip-level schematic, FreeRouting auto-routing, zero-error DRC, Gerber/BOM export |
 
