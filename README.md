@@ -36,14 +36,14 @@ class Arham:
 
 ## 🧠 Machine Learning & Data Science
 
-Currently completing **two parallel ML internship tracks** — Neurofive Solutions and Code Room Hub — covering the full pipeline from EDA to deployed, live web apps.
+Completed **two parallel ML internship tracks** — Neurofive Solutions and Code Room Hub — covering the full pipeline from EDA to deployed, live web apps.
 
 | Track | Provider | Scope | Status |
 |---|---|---|---|
-| **ML Fundamentals** | Neurofive Solutions | EDA → Classification/Regression → Tuning → Ensembles → Imbalanced Data → Deployment | 🟡 Week 5 of 6 |
-| **AI/ML Track** | Code Room Hub | EDA → Supervised ML → Feature Engineering/Ensembles → Unsupervised Learning → Capstone | 🟡 Capstone in progress |
+| **ML Fundamentals** | Neurofive Solutions | EDA → Classification/Regression → Tuning → Ensembles → Imbalanced Data → Deployment | ✅ Completed — Certificate Issued |
+| **AI/ML Track** | Code Room Hub | EDA → Supervised ML → Feature Engineering/Ensembles → Unsupervised Learning → Capstone | ✅ Completed — Capstone Submitted |
 
-**Capstone in progress:** *Retail Shelf Intelligence System* — shelf monitoring, product recognition, out-of-stock detection, and inventory analytics, built end-to-end with model comparison, hyperparameter tuning, SHAP/LIME explainability, MLflow tracking, Dockerized FastAPI deployment, and a Streamlit dashboard.
+**Capstone completed:** *Retail Shelf Intelligence System* — shelf monitoring, product recognition, out-of-stock detection, and inventory analytics, built end-to-end with model comparison, hyperparameter tuning, SHAP/LIME explainability, MLflow tracking, Dockerized FastAPI deployment, and a Streamlit dashboard.
 
 ### Skills demonstrated across both tracks
 
@@ -79,11 +79,13 @@ Completed a full **4-project IoT internship at DecodeLabs**, plus independent ha
 | Project | What It Does |
 |---|---|
 | 🌡️ [Environmental Monitor System](https://github.com/arhamrizwan2006/environmental-monitor-system) | DHT11 sensor + I2C LCD live environmental readout |
-| 💧 [Automated Irrigation Controller](https://github.com/arhamrizwan2006/Automated-Irrigation-Controller) | Soil moisture sensing, relay-driven pump control, buzzer alerts |
-| ☁️ [Cloud-Connected Security Node](https://github.com/arhamrizwan2006/decodelabs_tasks/tree/main/Week-3-ESP32-Distance-Sensor-MQTT) | ESP32 + HC-SR04 streaming live data to Adafruit IO via MQTT |
-| 🏠 [Edge-Computing Smart Home Appliance](https://github.com/arhamrizwan2006/decodelabs_tasks/tree/main/Week-4-Smart-Home-Safety-System) | PIR motion interrupts + MQ-2 gas sensor safety lockdown logic |
-| 🔋 [Solar RC Car](https://github.com/arhamrizwan2006/Solar-RC-Car) | Solar-powered RC car — INA226 power monitoring, Dabble GamePad Bluetooth control, custom motor logic |
-| 🖥️ [Arduino Nano Every PCB Replica](https://github.com/arhamrizwan2006/Arduino-Nano-Every-PCB-Replica) | Full custom PCB — chip-level schematic, FreeRouting auto-routing, zero-error DRC, Gerber/BOM export |
+| 💧 [Automated Irrigation Controller](https://github.com/arhamrizwan2006/automated-irrigation-controller) | Soil moisture sensing, relay-driven pump control, buzzer alerts |
+| ☁️ [Cloud-Connected Security Node](https://github.com/arhamrizwan2006/esp32-distance-sensor-mqtt) | ESP32 + HC-SR04 streaming live data to Adafruit IO via MQTT |
+| 🏠 [Edge-Computing Smart Home Appliance](https://github.com/arhamrizwan2006/smart-home-safety-system) | PIR motion interrupts + MQ-2 gas sensor safety lockdown logic |
+| 🔋 [Solar RC Car](https://github.com/arhamrizwan2006/solar-rc-car) | Solar-powered RC car — INA226 power monitoring, Dabble GamePad Bluetooth control, custom motor logic |
+| 🖥️ [Arduino Nano Every PCB Replica](https://github.com/arhamrizwan2006/arduino-nano-every-pcb-replica) | Full custom PCB — chip-level schematic, FreeRouting auto-routing, zero-error DRC, Gerber/BOM export |
+| 🔴🟡🟢 [3x3 LED Matrix Buzzer Sync](https://github.com/arhamrizwan2006/3x3-led-matrix-buzzer-sync) | Row/column-multiplexed LED matrix synced with buzzer tones + 7-segment digit counter |
+| 🅿️ [Ultrasonic Parking Sensor](https://github.com/arhamrizwan2006/ultrasonic-parking-sensor) | HC-SR04 distance alarm — LCD readout, 3-tier RGB range indicator, escalating dual-buzzer alarm |
 
 <div align="center">
 
