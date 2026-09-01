@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6C63FF,50:8B7FFF,100:B4A5FF&amp;height=250&amp;section=header&amp;text=Arham%20Rizwan&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Robotics%20and%20AI%20Student%20%7C%20Embedded%20Systems%20and%20Machine%20Learning&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+
+
 <!-- Animated typing intro -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arham+Rizwan;BS+Robotics+%26+AI+%40+UOL;Embedded+Systems+%2B+Machine+Learning;From+Sensors+to+Streamlit+Deployment" alt="Typing SVG" />
@@ -146,3 +149,5 @@ Completed a full **4-project IoT internship at DecodeLabs**, plus independent ha
 *Currently open to internship and entry-level opportunities in ML and embedded systems.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:B4A5FF,50:8B7FFF,100:6C63FF&amp;height=180&amp;section=footer" width="100%"/>
