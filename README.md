@@ -150,4 +150,4 @@ Completed a full **4-project IoT internship at DecodeLabs**, plus independent ha
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:B4A5FF,50:8B7FFF,100:6C63FF&amp;height=180&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:B4A5FF,50:8B7FFF,100:6C63FF&amp;height=180&amp;section=footer" width="100%"/>
